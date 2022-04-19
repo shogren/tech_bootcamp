@@ -1,0 +1,49 @@
+h1 {
+    text-align: center;
+  }
+    
+  p.red {
+    color: red;
+  }
+
+  p.blue {
+    color: blue;
+  }
+
+  p.orange {
+      color: orange;
+  }
+
+  p.green {
+    color: green;
+  }
+
+  p.big {
+    font-size: 30px;
+  }
+
+  p.tiny {
+    font-size: 10px;
+  }
+
+  p.center {
+    text-align: center;
+  }
+
+  p.bold {
+    font-weight: bold;;
+  }
+
+  .fontfamily {
+      font-family: monospace;
+  }
+
+  .styledFont {
+      color: green;
+  }
+
+  #styledImage {
+    border-style: solid;
+    border-width: thick;
+    border-color: lightblue;
+  }
